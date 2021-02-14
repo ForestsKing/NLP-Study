@@ -1,28 +1,4 @@
-﻿![在这里插入图片描述](https://img-blog.csdnimg.cn/20210209210644346.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)
-- [Lecture01：Introduction and Word Vectors]()
-- [Lecture02：Word Vectors and Word Senses]()
-- [Lecture03：Neural Networks]()
-- [Lecture04：Backpropagation]()
-- [Lecture05：Dependency Parsing]()
-- [Lecture06：Language Models and RNNs]()
-- [Lecture07：Vanishing Gradients, Fancy RNNs]()
-- [Lecture08：Translation, Seq2Seq, Attention]()
-- [Lecture09：Practical Tips for Projects]()
-- [Lecture10：Question Answering]()
-- [Lecture11：Convolutional Networks for NLP]()
-- [Lecture12：Subword Models]()
-- [Lecture13：Contextual Word Embeddings]()
-- [Lecture14：Transformers and Self-Attention]()
-- [Lecture15：Natural Language Generation]()
-- [Lecture16：Coreference Resolution]()
-- [Lecture17：Multitask Learning]()
-- [Lecture18：Constituency Parsing, TreeRNNs]()
-- [Lecture19：Bias in AI]()
-- [Lecture20：Future of NLP + Deep Learning]()
-
-
-
-# Lecture Plan
+﻿# Lecture Plan
 - Motivation: Compositionality and Recursion
 - Structure prediction with simple Tree RNN: Parsing
 - Backpropagation through Structure
@@ -332,9 +308,3 @@ Gilles Louppe, Kyunghun Cho, Cyril Becot, Kyle Cranmer (2017)
 - HAI的使命是推进⼈⼯智能研究，教育，政策和实践，以改善⼈类状况
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210212212058594.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)
-
-
-
-码文不易，如果觉得对你有用的话，点个赞再走吧，谢谢宁！
-
-（才疏学浅，如果有什么说的不对的地方，欢迎大家在评论区或者私信进行指正。）
