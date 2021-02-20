@@ -1,3 +1,4 @@
+# [csdn](https://blog.csdn.net/weixin_44857688/category_10806383.html)
 # Part01 SNLP
 - [SNLP01：绪论](https://github.com/ForestsKing/NLP-Study/blob/master/SNLP/SNLP01%EF%BC%9A%E7%BB%AA%E8%AE%BA.md)
 - [SNLP02：预备知识](https://github.com/ForestsKing/NLP-Study/blob/master/SNLP/SNLP02%EF%BC%9A%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)
@@ -28,3 +29,5 @@
 - [Lecture18：Constituency Parsing, TreeRNNs](https://github.com/ForestsKing/NLP-Study/blob/master/CS224N/CS224n%20Lecture18%EF%BC%9AConstituency%20Parsing%2C%20TreeRNNs.md)
 - [Lecture19：Bias in AI](https://github.com/ForestsKing/NLP-Study/blob/master/CS224N/CS224n%20Lecture19%EF%BC%9ABias%20in%20AI.md)
 - [Lecture20：Future of NLP + Deep Learning](https://github.com/ForestsKing/NLP-Study/blob/master/CS224N/CS224n%20Lecture20%EF%BC%9AFuture%20of%20NLP%20%2B%20Deep%20Learning.md)
+# Part03 papers
+- [A Primer on Neural Network Models for Natural Language Processing](https://github.com/ForestsKing/NLP-Study/blob/master/papers/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.md)
