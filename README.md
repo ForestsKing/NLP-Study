@@ -31,3 +31,8 @@
 - [Lecture20：Future of NLP + Deep Learning](https://github.com/ForestsKing/NLP-Study/blob/master/CS224N/CS224n%20Lecture20%EF%BC%9AFuture%20of%20NLP%20%2B%20Deep%20Learning.md)
 # Part03 papers
 - [A Primer on Neural Network Models for Natural Language Processing](https://github.com/ForestsKing/NLP-Study/blob/master/papers/A%20Primer%20on%20Neural%20Network%20Models%20for%20Natural%20Language%20Processing.md)
+- [Attention Is All You Need](https://github.com/ForestsKing/NLP-Study/blob/master/papers/Attention%20Is%20All%20You%20Need.md)
+- [BERT Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/ForestsKing/NLP-Study/blob/master/papers/BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.md)
+- [Deep contextualized word representations](https://github.com/ForestsKing/NLP-Study/blob/master/papers/Deep%20contextualized%20word%20representations.md)
+- [Distributed Representations of Words and Phrases and their Compositionality](https://github.com/ForestsKing/NLP-Study/blob/master/papers/Distributed%20Representations%20of%20Words%20and%20Phrases%20and%20their%20Compositionality.md)
+- [Neural Architectures for Named Entity Recognition](https://github.com/ForestsKing/NLP-Study/blob/master/papers/Neural%20Architectures%20for%20Named%20Entity%20Recognition.md)
