@@ -1,4 +1,8 @@
-﻿# 1 Transformer
+﻿# 0 代码：
+- [Transformer](https://github.com/ForestsKing/NLP-Study/blob/master/demo/Transformer.ipynb)
+- [BERT](https://github.com/ForestsKing/NLP-Study/blob/master/demo/BERT.ipynb)
+
+# 1 Transformer
 ## 1.1 Self-Attention
 ### 1.1.1 基本原理
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210224103212595.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)

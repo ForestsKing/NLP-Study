@@ -1,4 +1,7 @@
-﻿# 1 Word2Vec概述
+﻿# 0 代码：
+- [SG_base](https://github.com/ForestsKing/NLP-Study/blob/master/demo/SG_base.ipynb)
+- [SGNS](https://github.com/ForestsKing/NLP-Study/blob/master/demo/SGNS.ipynb)
+# 1 Word2Vec概述
 Word2Vec是google在2013年推出的一个NLP工具，它的特点是能够将单词转化为向量来表示，这样词与词之间就可以定量的去度量他们之间的关系，挖掘词之间的联系。用词向量来表示词并不是Word2Vec的首创，在很久之前就出现了。最早的词向量采用One-Hot编码，又称为一位有效编码，每个词向量维度大小为整个词汇表的大小，对于每个具体的词汇表中的词，将对应的位置置为1。比如我们有下面的5个词组成的词汇表，
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210222102019323.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)
 采用One-Hot编码方式来表示词向量非常简单，但缺点也是显而易见的，一方面我们实际使用的词汇表很大，经常是百万级以上，这么高维的数据处理起来会消耗大量的计算资源与时间。另一方面，One-Hot编码中所有词向量之间彼此正交，没有体现词与词之间的相似关系。
@@ -22,7 +25,7 @@ Google的Mikolov在关于Word2Vec的论文中提出了CBOW和Skip-gram两种模�
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210222102855304.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)
 看到这里也许你还是对这两个模型感到一头雾水，别急，下面分别对这两个模型的训练过程进行详细解释。
 
-# 3 CBOW
+# 3 CBOW(Continuous Bag-of-Words)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210222102932725.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)
 - 输入层：上下文单词的One-Hot编码词向量，V为词汇表单词个数，C为上下文单词个数。以上文那句话为例，这里C=4，所以模型的输入是（is,an,on,the）4个单词的One-Hot编码词向量。
 - 初始化一个权重矩阵 $W_{V\times N}$  ，然后用所有输入的One-Hot编码词向量左乘该矩阵,得到维数为N的向量 $w_1,w_2,...,w_c$ ，这里的N由自己根据任务需要设置。

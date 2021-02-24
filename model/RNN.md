@@ -1,4 +1,11 @@
-﻿# 1 RNN
+﻿# 0 代码：
+- [RNN](https://github.com/ForestsKing/NLP-Study/blob/master/demo/RNN.ipynb)
+- [BiLSTM](https://github.com/ForestsKing/NLP-Study/blob/master/demo/BiLSTM.ipynb)
+- [BiLSTM_CRF](https://github.com/ForestsKing/NLP-Study/blob/master/demo/biLSTM_CRF.ipynb)
+- [Seq2Seq](https://github.com/ForestsKing/NLP-Study/blob/master/demo/Seq2Seq.ipynb)
+- [Seq2Seq(Attention)](https://github.com/ForestsKing/NLP-Study/blob/master/demo/Seq2Seq(Attention).ipynb)
+
+# 1 RNN
 核⼼想法：重复使⽤ **相同** 的权重矩阵 W
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210211222908171.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)
 
