@@ -112,4 +112,3 @@ ELMo 是 Embedding from Language Model 的缩写，它通过无监督的方式�
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/202102241159324.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)
 答案是全都要！
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2021022411595527.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)
-

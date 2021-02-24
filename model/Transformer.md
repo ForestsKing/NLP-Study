@@ -164,5 +164,3 @@ BERT 预训练阶段实际上是将上述两个任务结合起来，同时进行
 ELMo 和 GPT 最大的问题就是传统的语言模型是单向的 ——我们根据之前的历史来预测当前词。但是我们不能利用后面的信息。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210224115115871.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDg1NzY4OA==,size_16,color_FFFFFF,t_70#pic_center)
 > 预训练模型架构的差异。 BERT使用双向Transformer。 OpenAI GPT使用从左到右的Transformer。 ELMo使用经过独立训练的从左到右和从右到左的LSTM的串联来生成用于下游任务的功能。在这三个之中，只有BERT表示在所有层中同时受左右上下文的制约。除了架构差异之外，BERT和OpenAI GPT是微调方法，而ELMo是基于特性的方法。
-
-

@@ -62,4 +62,3 @@ hidden2 = torch.max(hidden1, dim=2) # max pool
 - 输⼊⻓度为 7 的⼀句话，每个词的维度是 5 ，即输⼊矩阵是
 - 使⽤不同的filter_size : (2,3,4)，并且每个size都是⽤两个filter，获得两个channel的feature，即共计6个filter
 - 对每个filter的feature进⾏1-max pooling后，拼接得到 6 维的向量，并使⽤softmax后再获得⼆分类结果
-
