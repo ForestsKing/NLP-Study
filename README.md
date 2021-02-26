@@ -53,4 +53,4 @@
 - [Transformer](https://github.com/ForestsKing/NLP-Study/blob/master/demo/Transformer.ipynb)
 - [BERT](https://github.com/ForestsKing/NLP-Study/blob/master/demo/BERT.ipynb)
 # Part06 task
-- [NER]()
+- [NER](https://github.com/ForestsKing/NLP-Study/blob/master/task/NER.ipynb)
