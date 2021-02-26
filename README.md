@@ -48,8 +48,9 @@
 - [CNN](https://github.com/ForestsKing/NLP-Study/blob/master/demo/CNN.ipynb)
 - [RNN](https://github.com/ForestsKing/NLP-Study/blob/master/demo/RNN.ipynb)
 - [BiLSTM](https://github.com/ForestsKing/NLP-Study/blob/master/demo/BiLSTM.ipynb)
-- [BiLSTM_CRF](https://github.com/ForestsKing/NLP-Study/blob/master/demo/biLSTM_CRF.ipynb)
 - [Seq2Seq](https://github.com/ForestsKing/NLP-Study/blob/master/demo/Seq2Seq.ipynb)
 - [Seq2Seq(Attention)](https://github.com/ForestsKing/NLP-Study/blob/master/demo/Seq2Seq(Attention).ipynb)
 - [Transformer](https://github.com/ForestsKing/NLP-Study/blob/master/demo/Transformer.ipynb)
 - [BERT](https://github.com/ForestsKing/NLP-Study/blob/master/demo/BERT.ipynb)
+# Part06 task
+- [NER]()
