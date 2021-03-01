@@ -54,3 +54,4 @@
 - [BERT](https://github.com/ForestsKing/NLP-Study/blob/master/demo/BERT.ipynb)
 # Part06 task
 - [NER](https://github.com/ForestsKing/NLP-Study/blob/master/task/NER.ipynb)
+- [News_Classification](https://github.com/ForestsKing/News_Classification)
