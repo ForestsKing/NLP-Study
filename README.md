@@ -53,5 +53,7 @@
 - [Transformer](https://github.com/ForestsKing/NLP-Study/blob/master/demo/Transformer.ipynb)
 - [BERT](https://github.com/ForestsKing/NLP-Study/blob/master/demo/BERT.ipynb)
 # Part06 task
-- [NER](https://github.com/ForestsKing/NLP-Study/blob/master/task/NER.ipynb)
-- [News_Classification](https://github.com/ForestsKing/News_Classification)
+- [命名实体识别](https://github.com/ForestsKing/NLP-Study/blob/master/task/NER.ipynb)
+- [新闻文本分类](https://github.com/ForestsKing/News_Classification)
+- [医学影像报告异常检测](https://github.com/ForestsKing/Anomaly_Detection)
+- [中文阅读理解](https://github.com/ForestsKing/Reading_Comprehension)
