@@ -57,3 +57,4 @@
 - [新闻文本分类](https://github.com/ForestsKing/News_Classification)
 - [医学影像报告异常检测](https://github.com/ForestsKing/Anomaly_Detection)
 - [中文阅读理解](https://github.com/ForestsKing/Reading_Comprehension)
+- [疫情期间网民情绪识别](https://github.com/ForestsKing/Emotion_Recognition)
