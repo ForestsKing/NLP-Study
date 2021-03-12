@@ -54,7 +54,7 @@
 - [BERT](https://github.com/ForestsKing/NLP-Study/blob/master/demo/BERT.ipynb)
 # Part06 task
 - [命名实体识别](https://github.com/ForestsKing/NLP-Study/blob/master/task/NER.ipynb)
-- [新闻文本分类](https://github.com/ForestsKing/News_Classification)
-- [医学影像报告异常检测](https://github.com/ForestsKing/Anomaly_Detection)
-- [中文阅读理解](https://github.com/ForestsKing/Reading_Comprehension)
-- [疫情期间网民情绪识别](https://github.com/ForestsKing/Emotion_Recognition)
+- [新闻文本分类](https://github.com/ForestsKing/NLP-Study/tree/master/task/News_Classification)
+- [医学影像报告异常检测](https://github.com/ForestsKing/NLP-Study/tree/master/task/Anomaly_Detection)
+- [中文阅读理解](https://github.com/ForestsKing/NLP-Study/tree/master/task/Reading_Comprehension)
+- [疫情期间网民情绪识别](https://github.com/ForestsKing/NLP-Study/tree/master/task/Emotion_Recognition)
