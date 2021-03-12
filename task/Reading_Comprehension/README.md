@@ -12,4 +12,4 @@
 
 # 暂得结果
 
-![image-20210301081859855](https://github.com/ForestsKing/Reading_Comprehension/blob/master/pic/score.jpg)
+![image-20210301081859855](https://github.com/ForestsKing/NLP-Study/blob/master/task/Reading_Comprehension/pic/score.jpg)
