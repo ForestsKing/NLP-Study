@@ -1,4 +1,6 @@
 # [csdn](https://blog.csdn.net/weixin_44857688/category_10806383.html)
+# Part00 Basics
+- [Pytorch](https://github.com/ForestsKing/NLP-Study/tree/master/pytorch)
 # Part01 SNLP
 - [SNLP01：绪论](https://github.com/ForestsKing/NLP-Study/blob/master/SNLP/SNLP01%EF%BC%9A%E7%BB%AA%E8%AE%BA.md)
 - [SNLP02：预备知识](https://github.com/ForestsKing/NLP-Study/blob/master/SNLP/SNLP02%EF%BC%9A%E9%A2%84%E5%A4%87%E7%9F%A5%E8%AF%86.md)
@@ -42,6 +44,7 @@
 - [RNN、LSTM、GRU、Seq2Seq、Attention、ELMo](https://github.com/ForestsKing/NLP-Study/blob/master/model/RNN.md)
 - [RNN,LSTM,GRU in pytorch](https://github.com/ForestsKing/NLP-Study/blob/master/model/RNN%2CLSTM%2CGRU%20in%20pytorch.md)
 - [Transformer、ELMo、GPT、BERT](https://github.com/ForestsKing/NLP-Study/blob/master/model/Transformer.md)
+- [PreTrain](https://github.com/ForestsKing/NLP-Study/tree/master/pretrain)
 # Part05 demo
 - [SG_base](https://github.com/ForestsKing/NLP-Study/blob/master/demo/SG_base.ipynb)
 - [SGNS](https://github.com/ForestsKing/NLP-Study/blob/master/demo/SGNS.ipynb)
@@ -58,3 +61,4 @@
 - [医学影像报告异常检测](https://github.com/ForestsKing/NLP-Study/tree/master/task/Anomaly_Detection)
 - [中文阅读理解](https://github.com/ForestsKing/NLP-Study/tree/master/task/Reading_Comprehension)
 - [疫情期间网民情绪识别](https://github.com/ForestsKing/NLP-Study/tree/master/task/Emotion_Recognition)
+- [Quora Insincere Questions Classification](https://github.com/ForestsKing/NLP-Study/tree/master/task/Quora_Insincere_Questions_Classification)
